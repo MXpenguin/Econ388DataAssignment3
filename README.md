@@ -4,12 +4,19 @@ The repository for my final econometrics data assignment.
 
 Sources of data files:
 
+Data for Coid-19 deaths and cases per county are found from the New York Times from the link:
 https://github.com/nytimes/covid-19-data/blob/master/us-counties-2020.csv
-https://data.census.gov/table?q=population+in+all+counties+in+2020&t=Populations+and+People&tid=DECENNIALPL2020.P1
+
+Housing price data comes from the FHFA:
 https://www.fhfa.gov/DataTools/Downloads/Pages/House-Price-Index-Datasets.aspx
+
+Data containing zip codes and counties comes from:
 https://www.huduser.gov/portal/datasets/usps_crosswalk.html
 
+all-geocodes-v2021.xlsx is a data set containing all counties, with their accompanying names and fips codes. This dataset comes from the source:
 https://www.census.gov/geographies/reference-files/2021/demo/popest/2021-fips.html
+
+co-est2022-pop.xlsx is a data set containg the desired population data for each county and comes from the source:
 https://www.census.gov/data/tables/time-series/demo/popest/2020s-counties-total.html#v2022
 
 The DataAssignment3.do file will generate all necessary datasets and run all regressions for our analysis from just the raw data files.
