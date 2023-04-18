@@ -4,13 +4,13 @@ The repository for my final econometrics data assignment.
 
 Sources of data files:
 
-Data for Coid-19 deaths and cases per county are found from the New York Times from the link:
+Data for Coid-19 deaths and cases per county (us-counties-2020.csv) are found from the New York Times from the link:
 https://github.com/nytimes/covid-19-data/blob/master/us-counties-2020.csv
 
-Housing price data comes from the FHFA:
+Housing price data (HPI_AT_3zip.xlsx) comes from the FHFA:
 https://www.fhfa.gov/DataTools/Downloads/Pages/House-Price-Index-Datasets.aspx
 
-Data containing zip codes and counties comes from:
+Data containing zip codes and counties (ZIP_COUNTY_122020.xlsx) comes from:
 https://www.huduser.gov/portal/datasets/usps_crosswalk.html
 
 all-geocodes-v2021.xlsx is a data set containing all counties, with their accompanying names and fips codes. This dataset comes from the source:
