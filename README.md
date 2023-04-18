@@ -6,7 +6,7 @@ The PDF file contains the memo written for this project. This project was comple
 
 Sources of data files:
 
-Data for Coid-19 deaths and cases per county (us-counties-2020.csv) are found from the New York Times from the link:
+Data for Covid-19 deaths and cases per county (us-counties-2020.csv) are found from the New York Times from the link:
 https://github.com/nytimes/covid-19-data/blob/master/us-counties-2020.csv
 
 Housing price data (HPI_AT_3zip.xlsx) comes from the FHFA:
