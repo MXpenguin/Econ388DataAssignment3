@@ -1,6 +1,8 @@
 # Econ388DataAssignment3
 The repository for my final econometrics data assignment.
 
+The PDF file contains the memo written for this project. This project was completed under a heavy time crunch as many things went wrong. This work represents the author's best efforts given the time constraints placed upon him.
+
 
 Sources of data files:
 
