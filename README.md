@@ -11,3 +11,6 @@ https://www.huduser.gov/portal/datasets/usps_crosswalk.html
 
 https://www.census.gov/geographies/reference-files/2021/demo/popest/2021-fips.html
 https://www.census.gov/data/tables/time-series/demo/popest/2020s-counties-total.html#v2022
+
+The DataAssignment3.do file will generate all necessary datasets and run all regressions for our analysis from just the raw data files.
+The dataassignment3.log file contains a record of all work done in stata.
